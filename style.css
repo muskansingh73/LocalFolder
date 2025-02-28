@@ -1,0 +1,9 @@
+body{
+    background-color: aquamarine;
+}
+
+.form{
+    background-color:beige ;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
